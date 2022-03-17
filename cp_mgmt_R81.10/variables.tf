@@ -1,5 +1,5 @@
 variable "my_resource_gr" {
-  default="ODL-azure-558378-01"
+  default="ODL-azure-564183-01"
 }
 
 variable "my_vnet_name" {
